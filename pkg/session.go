@@ -4,8 +4,8 @@ import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-contrib/sessions/cookie"
 	"github.com/gin-gonic/gin"
+	"go-sample/models"
 	"net/http"
-	"sample/models"
 )
 
 // gin session key

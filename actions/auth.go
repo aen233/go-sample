@@ -2,9 +2,9 @@ package actions
 
 import (
 	"github.com/gin-gonic/gin"
+	"go-sample/models"
+	"go-sample/pkg"
 	"net/http"
-	"sample/models"
-	"sample/pkg"
 )
 
 func Login(c *gin.Context) {

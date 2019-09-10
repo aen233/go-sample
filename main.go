@@ -1,8 +1,8 @@
 package main
 
 import (
-	"sample/models"
-	"sample/router"
+	"go-sample/models"
+	"go-sample/router"
 )
 
 func init() {

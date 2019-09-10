@@ -2,10 +2,10 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
+	"go-sample/actions"
+	"go-sample/apis"
+	"go-sample/pkg"
 	"net/http"
-	"sample/actions"
-	"sample/apis"
-	"sample/pkg"
 )
 
 // SetupRouter index

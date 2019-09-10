@@ -1,12 +1,11 @@
 package actions
 
 import (
+	"github.com/gin-gonic/gin"
+	"go-sample/models"
 	"math"
 	"net/http"
-	"sample/models"
 	"strconv"
-
-	"github.com/gin-gonic/gin"
 )
 
 // Index index

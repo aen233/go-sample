@@ -1,10 +1,9 @@
 package actions
 
 import (
-	"net/http"
-	"sample/pkg"
-
 	"github.com/gin-gonic/gin"
+	"go-sample/pkg"
+	"net/http"
 )
 
 // Index index
